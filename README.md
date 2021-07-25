@@ -8,3 +8,7 @@
 nikhil00shinde/nikhil00shinde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<a href="https://github.com/nikhil00shinde">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhil00shinde&show_icons=true&theme=light&line_height=27" alt="Nikhil's github stats"/>
+</a>
