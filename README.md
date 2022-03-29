@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhil00shinde&show_icons=true&theme=light&line_height=27 )\
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil00shinde&theme=light&hide_langs_below=1)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhil00shinde&show_icons=true&hide=stars&theme=radical&count_private=true)\
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil00shinde&layout=compact&theme=radical)
 
 <br/>
 <h2>👯 Visitor's count :eyes:</h2>
