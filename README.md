@@ -45,6 +45,8 @@ Currently focused on:
 </p>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhil00shinde&show_icons=true&theme=tokyonight)
+
+##### Additional
+[![My Stats](https://awesome-github-stats.azurewebsites.net/user-stats/nikhil00shinde)](https://git.io/awesome-stats-card)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil00shinde&layout=compact&theme=tokyonight)
