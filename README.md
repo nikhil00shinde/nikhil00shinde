@@ -1,21 +1,50 @@
-## Hi, I’m Nikhil Shinde 👋
-- 👀 I’m interested in Web development and Machine learning.
-- 🌱 I’m currently learning Web development.
-- 💞️ I’m looking to collaborate on in Java or Front-end part.
+#### 🚀 Nikhil Shinde
 
-<!---
-nikhil00shinde/nikhil00shinde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Master's Student in Computer Science
+☁️ Aspiring Cloud / DevOps Engineer
+💻 Backend-Focused Software Engineer
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhil00shinde&show_icons=true&hide=stars&theme=radical&count_private=true)\
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil00shinde&layout=compact&theme=radical)
+👋 About Me
 
-<br/>
-<h2>👯 Visitor's count :eyes:</h2>
-<br/>
+I'm a Computer Science graduate student passionate about building scalable backend systems and cloud-native infrastructure.
 
-<p><img src="https://profile-counter.glitch.me/{nikhil00shinde}/count.svg" alt="Nikhil's :: Visitor's Count" /></p>
-<br/>
-<br/>
+I enjoy:
+- Designing clean backend architectures
+- Working with Linux and low-level systems
+- Automating workflows using DevOps tools
+- Solving algorithmic problems
+- Exploring cybersecurity concepts
+
+Currently focused on:
+- Backend Development (Java / Go / REST APIs)
+- Cloud Engineering (AWS)
+- DevOps (Docker, Kubernetes, Terraform, CI/CD)
+- Data Structures & System Design
+
+##### 🛠️ Tech Stack  
+
+###### ☁️ Cloud & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,githubactions" />
+</p>
+
+###### 💻 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,go,nodejs,spring,express" />
+</p>
+
+###### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,vite" />
+</p>
+
+###### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=tokyonight)
