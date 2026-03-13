@@ -1,52 +1,47 @@
-#### 🚀 Nikhil Shinde
+# Hi, I'm Nikhil Shinde 🚀
 
-🎓 Master's Student in Computer Science
-☁️ Aspiring Cloud / DevOps Engineer
-💻 Backend-Focused Software Engineer
+**Software Engineer | Backend & Cloud Infrastructure**
 
+I am a Computer Science graduate student specializing in distributed systems, cloud-native architecture, and heavy backend engineering. I build high-throughput microservices, orchestrate containerized deployments, and implement enterprise-grade observability pipelines. 
 
-👋 About Me
+When I am not optimizing APIs or configuring Kubernetes clusters, I am actively competing in algorithmic programming.
 
-I'm a Computer Science graduate student passionate about building scalable backend systems and cloud-native infrastructure.
+### 🔭 Current Focus & Engineering Focus
+- **Architecting** the *Elastic AI Vision Engine*, a distributed PyTorch inference pipeline scaled dynamically via Kubernetes HPA and Redis message queues.
+- **Deploying** enterprise telemetry and observability stacks (Prometheus, Grafana, Loki, Tempo) to reduce MTTR in microservice architectures.
+- **Grinding Algorithms:** Actively maintaining a 1590+ LeetCode rating (680+ problems solved) and a solid Codeforces rank.
+- **Education:** Pursuing my MS in Computer Science at George Washington University.
 
-I enjoy:
-- Designing clean backend architectures
-- Working with Linux and low-level systems
-- Automating workflows using DevOps tools
-- Solving algorithmic problems
-- Exploring cybersecurity concepts
+---
 
-Currently focused on:
-- Backend Development (Java / Go / REST APIs)
-- Cloud Engineering (AWS)
-- DevOps (Docker, Kubernetes, Terraform, CI/CD)
-- Data Structures & System Design
+### 🛠️ Enterprise Tech Stack
 
-##### 🛠️ Tech Stack  
-
-###### ☁️ Cloud & Infrastructure
+**☁️ Cloud, Infrastructure & Telemetry**
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,githubactions" />
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux,githubactions,prometheus,grafana" />
 </p>
 
-###### 💻 Backend
+**💻 Backend & MLOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,go,nodejs,spring,express" />
+  <img src="https://skillicons.dev/icons?i=java,python,nodejs,express,spring,pytorch" />
 </p>
 
-###### 🌐 Frontend
+**🌐 Frontend & Data**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,vite" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,postgres,mysql,mongodb,redis" />
 </p>
 
-###### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
+---
 
+### 📊 GitHub Activity & Stats
 
+<div align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/nikhil00shinde" alt="Nikhil's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil00shinde&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 
-##### Additional
-[![My Stats](https://awesome-github-stats.azurewebsites.net/user-stats/nikhil00shinde)](https://git.io/awesome-stats-card)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil00shinde&layout=compact&theme=tokyonight)
+### 📫 Let's Connect
+- **Portfolio:** [nikhilshinde.me](https://nikhilshinde.me/)
+- **LinkedIn:** [Nikhil Shinde](https://www.linkedin.com/in/nikhil-shinde-04a239193/)
