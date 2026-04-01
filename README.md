@@ -9,7 +9,6 @@ When I am not optimizing APIs or configuring Kubernetes clusters, I am actively 
 ### 🔭 Current Focus & Engineering Focus
 - **Architecting** the *Elastic AI Vision Engine*, a distributed PyTorch inference pipeline scaled dynamically via Kubernetes HPA and Redis message queues.
 - **Deploying** enterprise telemetry and observability stacks (Prometheus, Grafana, Loki, Tempo) to reduce MTTR in microservice architectures.
-- **Grinding Algorithms:** Actively maintaining a 1590+ LeetCode rating (680+ problems solved) and a solid Codeforces rank.
 - **Education:** Pursuing my MS in Computer Science at George Washington University.
 
 ---
