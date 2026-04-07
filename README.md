@@ -7,8 +7,6 @@ I am a Computer Science graduate student specializing in distributed systems, cl
 When I am not optimizing APIs or configuring Kubernetes clusters, I am actively competing in algorithmic programming.
 
 ### 🔭 Current Focus & Engineering Focus
-- **Architecting** the *Elastic AI Vision Engine*, a distributed PyTorch inference pipeline scaled dynamically via Kubernetes HPA and Redis message queues.
-- **Deploying** enterprise telemetry and observability stacks (Prometheus, Grafana, Loki, Tempo) to reduce MTTR in microservice architectures.
 - **Education:** Pursuing my MS in Computer Science at George Washington University.
 
 ---
