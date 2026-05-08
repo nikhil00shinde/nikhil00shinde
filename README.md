@@ -38,15 +38,6 @@ Outside of backend and infrastructure work, I actively practice algorithmic prob
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/nikhil00shinde" alt="Nikhil's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil00shinde&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
----
-
 ### 📫 Let's Connect
 
 - **Portfolio:** [nikhilshinde.me](https://nikhilshinde.me/)
