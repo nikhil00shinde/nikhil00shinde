@@ -2,28 +2,36 @@
 
 **Software Engineer | Backend & Cloud Infrastructure**
 
-I am a Computer Science graduate student specializing in distributed systems, cloud-native architecture, and heavy backend engineering. I build high-throughput microservices, orchestrate containerized deployments, and implement enterprise-grade observability pipelines. 
+I am a Computer Science graduate student focused on distributed systems, cloud-native infrastructure, and backend engineering. I enjoy building scalable services, working with containerized deployments, and designing reliable observability pipelines.
 
-When I am not optimizing APIs or configuring Kubernetes clusters, I am actively competing in algorithmic programming.
-
-### 🔭 Current Focus & Engineering Focus
-- **Education:** Pursuing my MS in Computer Science at George Washington University.
+Outside of backend and infrastructure work, I actively practice algorithmic problem-solving through leetcode.
 
 ---
 
-### 🛠️ Enterprise Tech Stack
+### 🔭 Current Focus
 
-**☁️ Cloud, Infrastructure & Telemetry**
+- **Education:** MS in Computer Science at George Washington University
+- **Interests:** Backend Engineering, Cloud Infrastructure, Distributed Systems, DevOps, and MLOps
+- **Practice:** Leetcode and System Design
+
+---
+
+### 🛠️ Tech Stack
+
+**☁️ Cloud, Infrastructure & Observability**
+
 <p>
   <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux,githubactions,prometheus,grafana" />
 </p>
 
 **💻 Backend & MLOps**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,nodejs,express,spring,pytorch" />
+  <img src="https://skillicons.dev/icons?i=java,python,nodejs,express,pytorch" />
 </p>
 
 **🌐 Frontend & Data**
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,postgres,mysql,mongodb,redis" />
 </p>
@@ -40,5 +48,6 @@ When I am not optimizing APIs or configuring Kubernetes clusters, I am actively 
 ---
 
 ### 📫 Let's Connect
+
 - **Portfolio:** [nikhilshinde.me](https://nikhilshinde.me/)
 - **LinkedIn:** [Nikhil Shinde](https://www.linkedin.com/in/nikhil-shinde-04a239193/)
