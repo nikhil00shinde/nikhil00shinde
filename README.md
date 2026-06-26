@@ -1,36 +1,36 @@
 # Hi, I'm Nikhil Shinde 🚀
 
-**Software Engineer | Backend & Cloud Infrastructure**
+**AI Software Engineer | Full-Stack AI | DevOps**
 
-I am a Computer Science graduate student focused on distributed systems, cloud-native infrastructure, and backend engineering. I enjoy building scalable services, working with containerized deployments, and designing reliable observability pipelines.
+I am a Computer Science graduate student at George Washington University, focused on building AI-powered applications, backend systems, and cloud-native infrastructure.
 
-Outside of backend and infrastructure work, I actively practice algorithmic problem-solving through leetcode.
+I enjoy working across the full stack — from designing APIs and databases to deploying scalable services with Docker, Kubernetes, and cloud platforms. I am also interested in LLM applications, MLOps, distributed systems, and DevOps automation.
 
 ---
 
-### 🔭 Current Focus
+## 🔭 Current Focus
 
 - **Education:** MS in Computer Science at George Washington University
-- **Interests:** Backend Engineering, Cloud Infrastructure, Distributed Systems, DevOps, and MLOps
-- **Practice:** Leetcode and System Design
+- **Interests:** AI Engineering, Full-Stack AI, Backend Engineering, DevOps, MLOps, and Cloud Infrastructure
+- **Practice:** LeetCode, System Design, and LLD
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**☁️ Cloud, Infrastructure & Observability**
+### AI, Backend & MLOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,java,nodejs,express,fastapi" />
+</p>
+
+### Cloud, DevOps & Infrastructure
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux,githubactions,prometheus,grafana" />
 </p>
 
-**💻 Backend & MLOps**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,nodejs,express,pytorch" />
-</p>
-
-**🌐 Frontend & Data**
+### Frontend & Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,postgres,mysql,mongodb,redis" />
@@ -38,7 +38,7 @@ Outside of backend and infrastructure work, I actively practice algorithmic prob
 
 ---
 
-### 📫 Let's Connect
+## 📫 Let's Connect
 
 - **Portfolio:** [nikhilshinde.me](https://nikhilshinde.me/)
 - **LinkedIn:** [Nikhil Shinde](https://www.linkedin.com/in/nikhil-shinde-04a239193/)
